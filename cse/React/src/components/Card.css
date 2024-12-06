@@ -1,0 +1,16 @@
+.Card{
+    background-color:aliceblue;
+    border: 2px solid black;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    width: 500px;
+    height: 350px;
+    color: black;
+    padding: 10px;
+
+}
+img{
+    height: 200px;
+    width: 200px;
+}
